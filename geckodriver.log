@@ -1,0 +1,1857 @@
+1624393793706	geckodriver	INFO	Listening on 127.0.0.1:57299
+1624393796746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile7dmHXL"
+1624393797136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile7dmHXL\\search.json.mozlz4", (void 0)))
+1624393799816	Marionette	INFO	Listening on port 57307
+1624393799962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1624393801705	Marionette	INFO	Stopped listening on port 57307
+[Parent 6752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624394198841	geckodriver	INFO	Listening on 127.0.0.1:60880
+1624394201872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileiCDQMN"
+1624394202271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileiCDQMN\\search.json.mozlz4", (void 0)))
+1624394204983	Marionette	INFO	Listening on port 60888
+1624394205057	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624394206369	Marionette	INFO	Stopped listening on port 60888
+1624394238287	geckodriver	INFO	Listening on 127.0.0.1:55686
+1624394241325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileIrfx7H"
+1624394241724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileIrfx7H\\search.json.mozlz4", (void 0)))
+1624394244472	Marionette	INFO	Listening on port 55695
+1624394244525	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1624394250110	Marionette	INFO	Stopped listening on port 55695
+1624394264737	geckodriver	INFO	Listening on 127.0.0.1:55743
+1624394267764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiles31ck6"
+1624394268160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiles31ck6\\search.json.mozlz4", (void 0)))
+1624394270973	Marionette	INFO	Listening on port 55751
+1624394271460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624394372131	Marionette	INFO	Stopped listening on port 55751
+Temp\\rust_mozprofileBf1y0K\\search.json.mozlz4", (void 0)))
+1624394308988	Marionette	INFO	Listening on port 55806
+1624394309263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624394323755	Marionette	INFO	Stopped listening on port 55806
+1624394374800	geckodriver	INFO	Listening on 127.0.0.1:51979
+1624394377825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiles0sbqJ"
+1624394378270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiles0sbqJ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624394380524	Marionette	INFO	Listening on port 51987
+1624394381053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://192.168.1.1"
+SourceActor threw an exception: Error: Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.
+1624394888335	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624395295481	Marionette	INFO	Stopped listening on port 51987
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+le.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilezmWY1e\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624394612633	Marionette	INFO	Listening on port 57970
+1624394613154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624394645928	Marionette	INFO	Stopped listening on port 57970
+1624394660350	geckodriver	INFO	Listening on 127.0.0.1:52508
+1624394663390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileMyFgIB"
+1624394663770	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileMyFgIB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624394666135	Marionette	INFO	Listening on port 52516
+1624394666599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://192.168.1.1"
+SourceActor threw an exception: Error: Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.
+1624394896308	Marionette	INFO	Stopped listening on port 52516
+4394761102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileSmi4WD"
+1624394761505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileSmi4WD\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624394764055	Marionette	INFO	Listening on port 64275
+1624394764283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://192.168.1.1"
+1624395271577	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1624395296717	Marionette	INFO	Stopped listening on port 64275
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileotRwz4\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624394839518	Marionette	INFO	Listening on port 64332
+1624394839610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624394902952	Marionette	INFO	Stopped listening on port 64332
+4394873999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileb60D7u"
+1624394874451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileb60D7u\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624394877305	Marionette	INFO	Listening on port 64371
+1624394877713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624394897717	Marionette	INFO	Stopped listening on port 64371
+1624395124871	geckodriver	INFO	Listening on 127.0.0.1:64403
+1624395127903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileBvq3Sv"
+1624395128350	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileBvq3Sv\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624395130944	Marionette	INFO	Listening on port 64411
+1624395131074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624395137739	Marionette	INFO	Stopped listening on port 64411
+1624395178225	geckodriver	INFO	Listening on 127.0.0.1:64440
+1624395181276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileL8rIxI"
+1624395181648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileL8rIxI\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624395184059	Marionette	INFO	Listening on port 64448
+1624395184454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+SourceActor threw an exception: Error: Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://192.168.1.1/admin/login.asp. Code 2153390067.
+1624395298054	Marionette	INFO	Stopped listening on port 64448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624395302261	geckodriver	INFO	Listening on 127.0.0.1:64478
+1624395305315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileR39So9"
+1624395305675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileR39So9\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624395308126	Marionette	INFO	Listening on port 64486
+1624395308515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624395616828	Marionette	INFO	Stopped listening on port 64486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileu62WuG"
+1624395347991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileu62WuG\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624395350364	Marionette	INFO	Listening on port 64540
+1624395350808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624395616248	Marionette	INFO	Stopped listening on port 64540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilersG7eJ"
+1624395401863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilersG7eJ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624395404321	Marionette	INFO	Listening on port 64628
+1624395404659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624395615755	Marionette	INFO	Stopped listening on port 64628
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile1DsSy6"
+1624395495596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile1DsSy6\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624395498088	Marionette	INFO	Listening on port 64681
+1624395498293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624395613693	Marionette	INFO	Stopped listening on port 64681
+4395574688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileWLDmPM"
+1624395575084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileWLDmPM\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624395577808	Marionette	INFO	Listening on port 64721
+1624395577875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624395611375	Marionette	INFO	Stopped listening on port 64721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624446836489	geckodriver	INFO	Listening on 127.0.0.1:49706
+1624446839560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileh6KT1n"
+1624446840670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileh6KT1n\\search.json.mozlz4", (void 0)))
+1624446844962	Marionette	INFO	Listening on port 49715
+1624446845372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624446886955	Marionette	INFO	Stopped listening on port 49715
+1624446892410	geckodriver	INFO	Listening on 127.0.0.1:49772
+1624446895427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilehH7yWw"
+1624446896038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilehH7yWw\\search.json.mozlz4", (void 0)))
+1624446899534	Marionette	INFO	Listening on port 49780
+1624446899642	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624446923223	Marionette	INFO	Stopped listening on port 49780
+1624446925434	geckodriver	INFO	Listening on 127.0.0.1:61075
+1624446928450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilemorhQV"
+1624446929087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilemorhQV\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624446932597	Marionette	INFO	Listening on port 61083
+1624446932661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624446979954	Marionette	INFO	Stopped listening on port 61083
+1624660177237	geckodriver	INFO	Listening on 127.0.0.1:52506
+1624660180299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileAFPG3M"
+1624660180676	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileAFPG3M\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624660183155	Marionette	INFO	Listening on port 52514
+1624660183474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624660189952	Marionette	INFO	Stopped listening on port 52514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624660213061	geckodriver	INFO	Listening on 127.0.0.1:52526
+1624660216118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileFXu1UC"
+1624660216514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileFXu1UC\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624660218965	Marionette	INFO	Listening on port 52534
+1624660219301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624660416254	Marionette	INFO	Stopped listening on port 52534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilevikYB1"
+1624660370820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilevikYB1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624660373088	Marionette	INFO	Listening on port 52628
+1624660373139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624660377932	Marionette	INFO	Stopped listening on port 52628
+1624660390320	geckodriver	INFO	Listening on 127.0.0.1:52698
+1624660393350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileQrJeiz"
+1624660393672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileQrJeiz\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624660395900	Marionette	INFO	Listening on port 52706
+1624660396015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624660417481	Marionette	INFO	Stopped listening on port 52706
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624660419439	geckodriver	INFO	Listening on 127.0.0.1:52827
+1624660422485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilejrcNeL"
+1624660422866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilejrcNeL\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624660425202	Marionette	INFO	Listening on port 52835
+1624660425683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.1"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.1"
+1624660932919	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.1"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624661377887	Marionette	INFO	Stopped listening on port 52835
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilebYJ9i7\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624660647969	Marionette	INFO	Listening on port 52890
+1624660648113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624660806695	Marionette	INFO	Stopped listening on port 52890
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileRF6jWZ"
+1624660715043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileRF6jWZ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624660717581	Marionette	INFO	Listening on port 52944
+1624660717900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624660803871	Marionette	INFO	Stopped listening on port 52944
+1624660922941	geckodriver	INFO	Listening on 127.0.0.1:52990
+1624660925987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileaiYU0z"
+1624660926335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileaiYU0z\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624660928597	Marionette	INFO	Listening on port 52998
+1624660928660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661279891	Marionette	INFO	Stopped listening on port 52998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileeK8hCv"
+1624661132229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileeK8hCv\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661134239	Marionette	INFO	Listening on port 53036
+1624661134564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661280537	Marionette	INFO	Stopped listening on port 53036
+4661166276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileJnAvmn"
+1624661166601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileJnAvmn\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661169027	Marionette	INFO	Listening on port 53075
+1624661169461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661281043	Marionette	INFO	Stopped listening on port 53075
+4661222564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileJW7b2n"
+1624661222961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileJW7b2n\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661225743	Marionette	INFO	Listening on port 53114
+1624661226269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661281624	Marionette	INFO	Stopped listening on port 53114
+4661249515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileOQDmLR"
+1624661249875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileOQDmLR\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661252719	Marionette	INFO	Listening on port 53151
+1624661253197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661282240	Marionette	INFO	Stopped listening on port 53151
+4661266785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileG4iFfH"
+1624661267215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileG4iFfH\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661270237	Marionette	INFO	Listening on port 53193
+1624661270492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661285080	geckodriver	INFO	Listening on 127.0.0.1:53222
+1624661288128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileMODViF"
+1624661288482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileMODViF\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661290777	Marionette	INFO	Listening on port 53230
+1624661290812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661378483	Marionette	INFO	Stopped listening on port 53230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilek6y7Hv"
+1624661311192	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilek6y7Hv\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661313533	Marionette	INFO	Listening on port 53284
+1624661314044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661317804	Marionette	INFO	Stopped listening on port 53284
+1624661334439	geckodriver	INFO	Listening on 127.0.0.1:53328
+1624661337455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilefWHZGk"
+1624661337780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilefWHZGk\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661340122	Marionette	INFO	Listening on port 53336
+1624661340630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1624661379122	Marionette	INFO	Stopped listening on port 53336
+d
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileRPLRls\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661369017	Marionette	INFO	Listening on port 53390
+1624661369055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624661876734	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624662871747	Marionette	INFO	Stopped listening on port 53390
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+le.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileAXzp3Z\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624661500897	Marionette	INFO	Listening on port 53445
+1624661501106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.1"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.1"
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.1"
+1624662008849	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.1"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624662872451	Marionette	INFO	Stopped listening on port 53445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileyZPjUB"
+1624662252764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileyZPjUB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624662254928	Marionette	INFO	Listening on port 53509
+1624662255100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624662762834	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1624662873034	Marionette	INFO	Stopped listening on port 53509
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+4662337765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileMUXMzW\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624662340268	Marionette	INFO	Listening on port 53572
+1624662340509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624662847824	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1624662873501	Marionette	INFO	Stopped listening on port 53572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+4662391212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileonZirk\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624662394139	Marionette	INFO	Listening on port 53657
+1624662394523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+1624662874261	Marionette	INFO	Stopped listening on port 53657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile35o7UC"
+1624662772059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile35o7UC\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624662774667	Marionette	INFO	Listening on port 53753
+1624662774886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624662876015	Marionette	INFO	Stopped listening on port 53753
+1624662879442	geckodriver	INFO	Listening on 127.0.0.1:53852
+1624662882491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilegEwNW1"
+1624662882864	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilegEwNW1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624662885000	Marionette	INFO	Listening on port 53860
+1624662885161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624662890854	Marionette	INFO	Stopped listening on port 53860
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624662893492	geckodriver	INFO	Listening on 127.0.0.1:53943
+1624662896535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile2BBRBf"
+1624662896878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile2BBRBf\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624662899209	Marionette	INFO	Listening on port 53951
+1624662899715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624663288708	Marionette	INFO	Stopped listening on port 53951
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624663290619	geckodriver	INFO	Listening on 127.0.0.1:54000
+1624663293653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiley6a0ZM"
+1624663294028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiley6a0ZM\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624663296374	Marionette	INFO	Listening on port 54008
+1624663296841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624663516543	Marionette	INFO	Stopped listening on port 54008
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileE0TBln"
+1624663345777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileE0TBln\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624663348322	Marionette	INFO	Listening on port 54063
+1624663348628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624663440242	Marionette	INFO	Stopped listening on port 54063
+1624663446814	geckodriver	INFO	Listening on 127.0.0.1:54169
+1624663449860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile4NravE"
+1624663450200	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile4NravE\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624663452503	Marionette	INFO	Listening on port 54177
+1624663452529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624663515442	Marionette	INFO	Stopped listening on port 54177
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624663520557	geckodriver	INFO	Listening on 127.0.0.1:54285
+1624663523597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileDbfyZr"
+1624663523947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileDbfyZr\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624663526348	Marionette	INFO	Listening on port 54293
+1624663526773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624663558166	Marionette	INFO	Stopped listening on port 54293
+1624663561197	geckodriver	INFO	Listening on 127.0.0.1:54356
+1624663564245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile1jumnn"
+1624663564586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile1jumnn\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624663566937	Marionette	INFO	Listening on port 54364
+1624663567435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624663574786	Marionette	INFO	Stopped listening on port 54364
+1624663938335	geckodriver	INFO	Listening on 127.0.0.1:54425
+1624663941364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile7hYvl7"
+1624663941722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile7hYvl7\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624663944082	Marionette	INFO	Listening on port 54433
+1624663944551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624664013003	Marionette	INFO	Stopped listening on port 54433
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624664015482	geckodriver	INFO	Listening on 127.0.0.1:54496
+1624664018528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilezpgZ5i"
+1624664018876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilezpgZ5i\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624664021321	Marionette	INFO	Listening on port 54504
+1624664021711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624664071783	Marionette	INFO	Stopped listening on port 54504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624664074736	geckodriver	INFO	Listening on 127.0.0.1:54608
+1624664077781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiletOc3lB"
+1624664078135	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiletOc3lB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624664080360	Marionette	INFO	Listening on port 54616
+1624664080468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/app_ddns_show.asp, line 60: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/app_ddns_show.asp, line 60: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/net_eth_links.asp, line 646: ReferenceError: tbbind is not defined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/app_ddns_show.asp, line 60: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/net_eth_links.asp, line 646: ReferenceError: tbbind is not defined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/app_ddns_show.asp, line 60: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+1624664588190	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/app_ddns_show.asp, line 60: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a functi1624664981885	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1624665035730	Marionette	INFO	Stopped listening on port 54867
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624665034741	Marionette	INFO	Stopped listening on port 54616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette	INFO	Listening on port 54978
+1624664709429	Marionette	INFO	Stopped listening on port 54978
+1624664764704	geckodriver	INFO	Listening on 127.0.0.1:54997
+1624664888155	geckodriver	INFO	Listening on 127.0.0.1:55004
+1624664891212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileH3c7Sf"
+1624664891551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileH3c7Sf\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624664893867	Marionette	INFO	Listening on port 55012
+1624664894373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624665037256	Marionette	INFO	Stopped listening on port 55012
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624665143350	geckodriver	INFO	Listening on 127.0.0.1:55076
+1624665146394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilepuMMpM"
+1624665146720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilepuMMpM\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624665149054	Marionette	INFO	Listening on port 55084
+1624665149566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624665153996	Marionette	INFO	Stopped listening on port 55084
+1624665172404	geckodriver	INFO	Listening on 127.0.0.1:55167
+1624665175460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilehM7pDc"
+1624665175785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilehM7pDc\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624665178076	Marionette	INFO	Listening on port 55175
+1624665178135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624665191869	Marionette	INFO	Stopped listening on port 55175
+1624665222801	geckodriver	INFO	Listening on 127.0.0.1:55279
+1624665225849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileQmGjng"
+1624665226198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileQmGjng\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624665228382	Marionette	INFO	Listening on port 55287
+1624665228553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624665257640	Marionette	INFO	Stopped listening on port 55287
+1624665259617	geckodriver	INFO	Listening on 127.0.0.1:55418
+1624665262687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileySdtRE"
+1624665263021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileySdtRE\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624665265211	Marionette	INFO	Listening on port 55426
+1624665265400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624665392244	Marionette	INFO	Stopped listening on port 55426
+1624665466094	geckodriver	INFO	Listening on 127.0.0.1:62610
+1624665469123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilegL1fLA"
+1624665469444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilegL1fLA\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624665471860	Marionette	INFO	Listening on port 62618
+1624665472304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624665491750	Marionette	INFO	Stopped listening on port 62618
+1624665722291	geckodriver	INFO	Listening on 127.0.0.1:59443
+1624665725334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileJMfNZK"
+1624665725665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileJMfNZK\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624665728085	Marionette	INFO	Listening on port 59451
+1624665728520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624666235712	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624669536136	Marionette	INFO	Stopped listening on port 59451
+" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624665978118	Marionette	INFO	Listening on port 54148
+1624665978483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0] is undefined
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624666485687	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624669536839	Marionette	INFO	Stopped listening on port 54148
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileVoVpFH"
+1624666615931	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileVoVpFH\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624666618264	Marionette	INFO	Listening on port 54277
+1624666618775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624666621348	Marionette	INFO	Stopped listening on port 54277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624666738078	geckodriver	INFO	Listening on 127.0.0.1:54321
+1624666741122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile2FpNhn"
+1624666741455	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile2FpNhn\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624666743770	Marionette	INFO	Listening on port 54329
+1624666743842	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624666747702	Marionette	INFO	Stopped listening on port 54329
+1624666756521	geckodriver	INFO	Listening on 127.0.0.1:54375
+1624666759550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilecrQU0C"
+1624666759873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilecrQU0C\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624666762083	Marionette	INFO	Listening on port 54383
+1624666762229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624667269925	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624669537317	Marionette	INFO	Stopped listening on port 54383
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile2w7riG"
+1624669400653	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile2w7riG\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624669402854	Marionette	INFO	Listening on port 60468
+1624669402966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624669539186	Marionette	INFO	Stopped listening on port 60468
+1624669540403	geckodriver	INFO	Listening on 127.0.0.1:60519
+1624669543440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileHGMz3p"
+1624669543788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileHGMz3p\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624669546119	Marionette	INFO	Listening on port 60527
+1624669546629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624670053847	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624670413935	Marionette	INFO	Stopped listening on port 60527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+le.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile4vIltp\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624669618983	Marionette	INFO	Listening on port 60641
+1624669619419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624670126653	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 11204, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1624670415213	Marionette	INFO	Stopped listening on port 60641
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\Temp\\rust_mozprofileT9hyh4\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624669828929	Marionette	INFO	Listening on port 60712
+1624669829354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624670061890	Marionette	INFO	Stopped listening on port 60712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624670065122	geckodriver	INFO	Listening on 127.0.0.1:60843
+1624670068148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileCmA9I3"
+1624670068519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileCmA9I3\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624670070914	Marionette	INFO	Listening on port 60851
+1624670071311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624670363818	Marionette	INFO	Stopped listening on port 60851
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624670417240	geckodriver	INFO	Listening on 127.0.0.1:60985
+1624670420296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileg4BPRe"
+1624670420678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileg4BPRe\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624670423127	Marionette	INFO	Listening on port 60993
+1624670423471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624670580698	Marionette	INFO	Stopped listening on port 60993
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624670638944	geckodriver	INFO	Listening on 127.0.0.1:61126
+1624670642003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilewekDAa"
+1624670642381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilewekDAa\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624670644789	Marionette	INFO	Listening on port 61134
+1624670645176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624671152443	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1624671177616	Marionette	INFO	Stopped listening on port 61134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+4670925067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileulOWKB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624670927586	Marionette	INFO	Listening on port 61256
+1624670927843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624670935707	Marionette	INFO	Stopped listening on port 61256
+1624670941915	geckodriver	INFO	Listening on 127.0.0.1:61339
+1624670944972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileVBDUSv"
+1624670945308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileVBDUSv\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624670947744	Marionette	INFO	Listening on port 61347
+1624670948170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624671174527	Marionette	INFO	Stopped listening on port 61347
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624671182140	geckodriver	INFO	Listening on 127.0.0.1:61479
+1624671185187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileke3OGv"
+1624671185541	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileke3OGv\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624671187861	Marionette	INFO	Listening on port 61487
+1624671187888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624671210978	Marionette	INFO	Stopped listening on port 61487
+1624671247422	geckodriver	INFO	Listening on 127.0.0.1:61618
+1624671250459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilegkFclG"
+1624671250801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilegkFclG\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624671253223	Marionette	INFO	Listening on port 61626
+1624671253643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624671269105	Marionette	INFO	Stopped listening on port 61626
+1624671303773	geckodriver	INFO	Listening on 127.0.0.1:61795
+1624671306829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile2PfsL3"
+1624671307176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile2PfsL3\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624671309691	Marionette	INFO	Listening on port 61803
+1624671310002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624671441219	Marionette	INFO	Stopped listening on port 61803
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624671575694	geckodriver	INFO	Listening on 127.0.0.1:61935
+1624671578719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilelxzgxt"
+1624671579043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilelxzgxt\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624671581317	Marionette	INFO	Listening on port 61943
+1624671581392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1624671756388	Marionette	INFO	Stopped listening on port 61943
+1624710468554	geckodriver	INFO	Listening on 127.0.0.1:56570
+1624710471582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile5f2wnt"
+1624710472179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofile5f2wnt\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624710475902	Marionette	INFO	Listening on port 56578
+1624710476390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624710491349	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624710491457	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624710828496	Marionette	INFO	Stopped listening on port 56578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilevUYyor"
+1624710581998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilevUYyor\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624710585447	Marionette	INFO	Listening on port 54977
+1624710585652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624710592340	Marionette	INFO	Stopped listening on port 54977
+1624710596516	geckodriver	INFO	Listening on 127.0.0.1:55060
+1624710599555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileIBRAeW"
+1624710600104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofileIBRAeW\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624710603616	Marionette	INFO	Listening on port 55068
+1624710603764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+1624710618007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624710706813	Marionette	INFO	Stopped listening on port 55068
+1624710710139	geckodriver	INFO	Listening on 127.0.0.1:55198
+1624710713207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiledgqFpl"
+1624710713750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofiledgqFpl\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624710717389	Marionette	INFO	Listening on port 55206
+1624710717514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624710836365	Marionette	INFO	Stopped listening on port 55206
+1624710842159	geckodriver	INFO	Listening on 127.0.0.1:55319
+1624710845192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilegILyxp"
+1624710845817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilegILyxp\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624710849277	Marionette	INFO	Listening on port 55327
+1624710849410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624710903675	Marionette	INFO	Stopped listening on port 55327
+1624710926361	geckodriver	INFO	Listening on 127.0.0.1:55439
+1624710929410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilecHyt8z"
+1624710929994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilecHyt8z\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624710933306	Marionette	INFO	Listening on port 55447
+1624710933608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624711107338	Marionette	INFO	Stopped listening on port 55447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624711209241	geckodriver	INFO	Listening on 127.0.0.1:61720
+1624711212269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilePYJQSf"
+1624711212832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OBTI\\AppData\\Local\\Temp\\rust_mozprofilePYJQSf\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624711216731	Marionette	INFO	Listening on port 61728
+1624711217064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/mgm_usr_user.asp, line 28: TypeError: document.getElementById(...) is null
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/common.js, line 13: TypeError: top.frames[0].resetTimeoutFunc is not a function
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/common.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://192.168.1.1/admin/share.js, line 1: SyntaxError: expected expression, got '<'
+1624711446397	Marionette	INFO	Stopped listening on port 61728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
